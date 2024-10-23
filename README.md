@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hokidocs%2Fgjbae1212%2Fhit-counter&count_bg=%2313325E&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%9A%80&edge_flat=false)](https://github.com/hokidocs)
 
-<a href="https://hokidocs.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_blog!-white?style=social&logo=robotframework&logoColor=000000"/></a>
+<a href="https://hokidocs.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog!-white?style=social&logo=robotframework&logoColor=000000"/></a>
 
 <!--rubocop, hootsuite, godotengine, robotframework -->
 
