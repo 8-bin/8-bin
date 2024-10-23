@@ -12,6 +12,8 @@ I am a Cloud Engineer from South Korea interested in ML/DL.
 - 네이버 커넥트 제단 \<DATA SCIENCE PROJECTS> 코칭스터디 (2024.01 ~ 2024.02)
 - KOSA 빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성 과정 (2024.03 ~ 2024.08)
 
+#### Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
 
 
 
