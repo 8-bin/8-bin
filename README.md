@@ -1,4 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hokidocs%2Fgjbae1212%2Fhit-counter&count_bg=%2313325E&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%9A%80&edge_flat=false)](https://github.com/hokidocs)
+
+<a href="hokidocs.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_blog-white?style=social&logo=apple&logoColor=000000"/></a>
+
 #### Hi, I'm Taeho👋
 
 I am a Cloud Engineer from South Korea interested in ML/DL. 
