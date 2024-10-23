@@ -1,13 +1,32 @@
-<!--
-**Hi, I'm Taeho👋** </br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2313325E&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%9A%80&edge_flat=false)](https://hits.seeyoufarm.com)
+
+#### Hi, I'm Taeho👋
+
+I am a Cloud Engineer from South Korea interested in ML/DL. 
+
+#### Skills & Tools 
+[![My Skills](https://skillicons.dev/icons?i=linux,redhat,aws)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,prometheus)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=java,py,sklearn,tensorflow)](https://skillicons.dev)
+
+#### Education
+- 네이버 커넥트 제단 \<DATA SCIENCE PROJECTS> 코칭스터디 (2024.01 ~ 2024.02)
+- KOSA 빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성 과정 (2024.03 ~ 2024.08)
+
+
+
+
+
+<!--\
+
+
+
 <br/>
-I am a developer and Engineer from South Korea interested in <br/>
-<br/>
-**Skills & Tools**
+
 
 <img src="https://skillicons.dev/icons?i=notion"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=java"/>
@@ -22,8 +41,9 @@ I am a developer and Engineer from South Korea interested in <br/>
 <img src="https://skillicons.dev/icons?i=prometheus"/>
 <img src="https://skillicons.dev/icons?i=redhat"/>
 
-**Award**
-
+** Awards **
+#### Award
+- [채용연계형 SW전문인재양성] 우수성과 공유 컨퍼런스 | 정보통신기획평가원(IITP) 원장상
 **Latest Blog Posts**
 -->
 
