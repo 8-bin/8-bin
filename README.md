@@ -2,7 +2,7 @@
 
 <a href="https://hokidocs.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog!-white?style=social&logo=robotframework&logoColor=000000"/></a>
 
-<!--rubocop, hootsuite, godotengine, robotframework -->
+<!--rubocop, hootsuite, godotengine, robotframework, notion -->
 
 #### Hi, I'm Taeho👋
 
