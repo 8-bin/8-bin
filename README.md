@@ -5,13 +5,14 @@
 <!--rubocop, hootsuite, godotengine, robotframework, notion -->
 
 #### Hi, I'm Taeho👋
-
+<!--
 I am a Cloud Engineer from South Korea interested in ML/DL. 
 
 #### Skills & Tools 
 [![My Skills](https://skillicons.dev/icons?i=linux,redhat,aws)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,prometheus)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=java,py,sklearn,tensorflow)](https://skillicons.dev)
+-->
 
 #### Education
 - 네이버 커넥트 제단 \<DATA SCIENCE PROJECTS> 코칭스터디 (2024.01 ~ 2024.02)
