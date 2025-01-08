@@ -8,7 +8,11 @@
 
 #### Hi, I'm Taeho👋
 
-Cloud Engineer from South Korea interested in ML/DL. 
+interested in ML/DL. 
+
+<!--
+Cloud Engineer from South Korea 
+-->
 
 <!--
 #### Skills & Tools 
