@@ -6,8 +6,7 @@
 
 <!--rubocop, hootsuite, godotengine, robotframework, notion -->
 
-<a href='https://www.google.com'>![pngtree-click-me-3d-button-web-png-image_6213762](https://github.com/user-attachments/assets/8a03f21b-70aa-4d7a-8884-4d0820273180)
-</a>
+
 
 #### Hi, I'm Taeho👋
 
@@ -24,6 +23,8 @@ Cloud Engineer from South Korea
 [![My Skills](https://skillicons.dev/icons?i=java,py,sklearn,tensorflow)](https://skillicons.dev)
 -->
 
+
+
 #### Education
 - 네이버 커넥트 제단 \<DATA SCIENCE PROJECTS> 코칭스터디 (2024.01 ~ 2024.02)
 - KOSA 빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성 과정 (2024.03 ~ 2024.08)
@@ -37,7 +38,9 @@ Cloud Engineer from South Korea
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
 -->
 
-
+### If you want to see my tech blog...
+<a href='https://www.google.com'>![pngtree-click-me-3d-button-web-png-image_6213762](https://github.com/user-attachments/assets/8a03f21b-70aa-4d7a-8884-4d0820273180)
+</a>
 
 <!--\
 
