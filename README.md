@@ -6,7 +6,7 @@
 
 <!--rubocop, hootsuite, godotengine, robotframework, notion -->
 
-<a href='www.google.com'>![unnamed](https://github.com/user-attachments/assets/d84a3ac9-523a-48ff-9efe-525f3f440696)</a>
+<a href='www.google.com'>![unnamed](https://github.com/user-attachments/assets/bc312d0d-e7e4-4b44-8195-ef2da2364879)</a>
 
 #### Hi, I'm Taeho👋
 
