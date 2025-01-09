@@ -31,14 +31,13 @@ Cloud Engineer from South Korea
 - AWS CloudSchool 8기 (2024.12 ~ )
 
 #### Award
-- 채용연계형 SW전문인재양성 성과 공유 컨퍼런스 | (우수상, 정보통신기획평가원장상)
+- 채용연계형 SW전문인재양성 성과 공유 컨퍼런스 | (우수상, 정보통신기획평가원장상) <br/><br/>
 
 <!--
 #### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
 -->
-
-### If you want to see my tech blog...
+### If you want to see my obsidian...
 <a href='https://www.google.com'>![pngtree-click-me-3d-button-web-png-image_6213762](https://github.com/user-attachments/assets/8a03f21b-70aa-4d7a-8884-4d0820273180)
 </a>
 
