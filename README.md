@@ -26,6 +26,9 @@ Cloud Engineer from South Korea
 - KOSA 빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성 과정 (2024.03 ~ 2024.08)
 - AWS CloudSchool 8기 (2024.12 ~ )
 
+### Award
+- 채용연계형 SW전문인재양성 성과 공유 컨퍼런스 | (우수상, 정보통신기획평가원장상)
+
 <!--
 #### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101)](https://solved.ac/ha990101/)
