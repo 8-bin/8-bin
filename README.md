@@ -24,7 +24,7 @@ Cloud Engineer from South Korea
 -->
 
 
-
+<!--
 #### Education
 - 네이버 커넥트 제단 \<DATA SCIENCE PROJECTS> 코칭스터디 (2024.01 ~ 2024.02)
 - KOSA 빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성 과정 (2024.03 ~ 2024.08)
@@ -32,6 +32,7 @@ Cloud Engineer from South Korea
 
 #### Award
 - 채용연계형 SW전문인재양성 성과 공유 컨퍼런스 | (우수상, 정보통신기획평가원장상) <br/><br/>
+-->
 
 <!--
 #### Problem Solving
